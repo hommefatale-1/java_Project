@@ -1,4 +1,4 @@
-package day6;
+spackage day6;
 
 public class Human {
 	

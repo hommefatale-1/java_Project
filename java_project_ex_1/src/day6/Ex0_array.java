@@ -28,8 +28,8 @@ public class Ex0_array {
 		 * for (int h = 0; h < array1[s]; h++) { System.out.print("*"); }
 		 * System.out.println( "\"안녕하세요\" "); }
 		 */
-		//7. 배열에서 중복제거
-		
+		// 7. 배열에서 중복제거
+
 	}// main
 
 }// class

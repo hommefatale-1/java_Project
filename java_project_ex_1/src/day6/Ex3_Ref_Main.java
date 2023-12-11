@@ -10,8 +10,8 @@ public class Ex3_Ref_Main {
 		int num = 10;
 		hong.numAdd(num);
 		System.out.println(num);
-		
-		//hong의 주소 :qwer123
+
+		// hong의 주소 :qwer123
 		hong.newYear(hong);
 	}
 }

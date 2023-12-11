@@ -13,13 +13,11 @@ public class Calculatol {
 		return (a + b + c);
 
 	}
-	
 
 	double sum(int a, double b) {
 
-		return (a + b );
+		return (a + b);
 
 	}
-
 
 }// class
