@@ -13,5 +13,6 @@ public class Ex3_Ref_Main {
 
 		// hong의 주소 :qwer123
 		hong.newYear(hong);
+		
 	}
 }

@@ -67,5 +67,6 @@ public class Ex0_yester {
 			}
 		}
 			System.out.println("배열의 숫자 오름차순으로 나열하세여 : " + Arrays.toString(array));
+			input.close();
 	}// main
 }// class

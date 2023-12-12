@@ -1,4 +1,4 @@
-package day7;
+package Sample1;
 
 public class Student {
 

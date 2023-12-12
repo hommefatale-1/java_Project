@@ -1,6 +1,5 @@
 package day5;
 
-import java.security.AlgorithmParameterGenerator;
 import java.util.Arrays;
 import java.util.Random;
 

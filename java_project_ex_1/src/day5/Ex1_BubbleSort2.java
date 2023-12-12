@@ -1,6 +1,5 @@
 package day5;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class Ex1_BubbleSort2 {
@@ -23,8 +22,5 @@ public class Ex1_BubbleSort2 {
 		System.out.println(Arrays.toString(array));
 
 	}// main
-	
 
 }// class
-
-
