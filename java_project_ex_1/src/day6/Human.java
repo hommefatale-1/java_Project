@@ -1,4 +1,4 @@
-spackage day6;
+package day6;
 
 public class Human {
 	
@@ -18,5 +18,4 @@ public class Human {
 	void newYear(Human human) {
 		human.age++;
 	}
-	
 }
