@@ -10,7 +10,7 @@ public class Ex0_student {
 		
 		hong.setInfo(20, "남");
 		 
-	
+	  
 	}
 
 }
