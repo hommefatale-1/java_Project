@@ -9,9 +9,11 @@ public class Calculatol_Ex {
 		System.out.println(Calculator.sum(1, 2));
 		int num1= Calculator.sum(1, 2, 3);
 		System.out.println(num1);
+		
 		Calculator.sum(1.2, 2.5);
 		
 		Calculator.circleArea(3);
 	}
 
 }
+

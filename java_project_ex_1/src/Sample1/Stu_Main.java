@@ -9,6 +9,6 @@ public class Stu_Main {
 		s.stuName = "홍길동";
 		s.sutNo = 1234;
 		s.stuDept = "컴퓨터";
-		//s.age = 20;
+		// s.age = 20;
 	}
 }

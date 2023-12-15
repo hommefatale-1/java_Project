@@ -13,5 +13,6 @@ public class Stu_Main {
 		/*
 		 * s.sutNo = 1234; s.stuDept = "컴퓨터"; s.age = 20;
 		 */
+		System.out.println(s.stuName);
 	}
 }
